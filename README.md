@@ -1,4 +1,4 @@
-# SIFS User Manual
+# SIFS: An Advanced Swarm Intelligence-Based Toolbox for Feature Selection in High-Dimensional Biomedical Datasets
 
 ## 1 Introduction
 
